@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thomas-hub-design
-- 👀 I’m interested in Computer programming 
-- 🌱 I am a beginner in programming willing to explore more.
+- 👀 I’m interested in Computer programming
+- 🌱 I am currently exploring AI Learning
 - 💞️ I’m looking to collaborate in projects and tasks on programming to the best of my ability.
 - 📫 How to reach me via mail thomasochieng418@gmail.com
 - 😄 Pronouns: He
